@@ -1,7 +1,7 @@
 ---
 permalink: /blog-json/
 title: 
-author_profile: false
+author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"

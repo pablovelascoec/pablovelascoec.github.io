@@ -1,13 +1,13 @@
 ---
 permalink: /research/
 title: 
-author_profile: false
+author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
 
-# Publications
+
 
 ## Derechos, calidad de vida urbana y división del espacio en el Distrito Metropolitano de Quito
 
