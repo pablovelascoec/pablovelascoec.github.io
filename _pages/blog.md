@@ -1,6 +1,6 @@
 ---
-permalink: /blog-json/
-title: 
+permalink: /blog/
+title: #
 author_profile: true
 redirect_from: 
   - "/nmp/"
