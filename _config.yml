@@ -22,7 +22,7 @@ repository               : "pablovelascoec/pablovelascoec.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto.jpg"
   name             : "Pablo Velasco Oña"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Politics"
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #twitter
 facebook:
   username               :
   app_id                 :

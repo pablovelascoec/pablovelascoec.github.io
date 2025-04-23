@@ -9,4 +9,9 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
 end
 
-gem 'github-pages'
+gem 'tzinfo-data'
+gem 'jekyll-gist'
+gem 'jekyll-paginate'
+gem 'faraday-retry'
+gem 'kramdown-parser-gfm'
+
