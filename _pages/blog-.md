@@ -1,5 +1,5 @@
 ---
-permalink: /blog-/
+permalink: /blog/
 title: #
 author_profile: true
 redirect_from: 
