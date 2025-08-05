@@ -28,6 +28,27 @@ Esta tesis de maestría estudia cómo las élites políticas trabajan en el proc
 <br>
 
 
+# working Papers
+
+## Leader cue or partisanship? Categorizing lasting electoral support for a charismatic movement
+
+*With Paolo Moncagatta*
+
+The survival of charismatic movements following the departure of their leader is contingent on their capacity to transform personal loyalty into enduring political support for a broader political platform. In Ecuador, despite the exit of Rafael Correa from the presidency in 2017 and the country in 2018, his movement prevailed as a dominant political force, and the ongoing divide between supporters and opponents of Correa, known as "correísmo" and "anticorreísmo," respectively, continues to structure voting behavior. This article analyzes the durability of electoral support for Correa's movement and identifies two related yet distinct tendencies. A considerable number of adherents self-identify as "correístas" (supporters of Correa) and exhibit strong partisan loyalty. In contrast, others consider themselves neutral but rely on emotional affinity toward the leader as a voting cue. The present study introduces the concept of charismatic partisanship to distinguish these loyal followers from leader-cued voters. Applying logistic regression models to original survey data from three presidential elections (2021–2025), we find that the odds of voting for Correa's candidate are 67% to 81% lower among leader-cued voters compared to charismatic partisans.
+
+## Centros que expulsan, periferias que crecen. Reconfiguración socioespacial en ciudades intermedias de Ecuador
+
+*With Augusto Barrera*
+
+Este trabajo explora cómo han evolucionado las formas de ocupación de cuatro ciudades intermedias de la Sierra ecuatoriana entre 2010 y 2022. Con base en datos desagregados del Censo de Población y Vivienda (CPV), se encuentra que existe una tendencia compartida caracterizada por centros urbanos que pierden población y periferias que se consolidan rápidamente. Estas nuevas periferias no solamente están relacionadas con su posición espacial, sino que también conectan significativamente con otras formas de segregación sociodemográfica como el origen de la población, la forma de posesión de la vivienda, la capacidad socioeconómica y la edad. 
+
+
+## The Rise, Fall, and Return of a Charismatic Movement: Explaining Transfers of Personalistic Support in Ecuador’s Local Elections, 2009–2023.
+
+The success and endurance of charismatic movements hinge on their ability to convert a leader’s personal popularity into broader electoral support for allied candidates. Yet, due to the inherently personalistic nature of these movements, such transfers are often uneven and highly context dependent. This paper examines the case of Ecuador’s Correísmo to understand the conditions under which personalistic support is successfully transferred from a charismatic leader to local candidates. Despite enjoying record-high presidential approval in 2014, the movement’s candidate lost the mayoral race in Quito, capital of Ecuador. Paradoxically, nearly a decade later in 2023, Correísmo regained local power despite operating from a much weaker institutional position. To explain this apparent contradiction, I analyze four electoral episodes from 2009 to 2023, tracing the evolution of the movement’s electoral strategies and the structural and contingent factors shaping its outcomes. Using a mixed-methods approach that combines original electoral survey analysis with process tracing, I identify three key factors that shape the effective transfer of personalistic support: 1) the candidate’s perceived personal resemblance to the charismatic leader, 2) their demonstrated closeness to lower-income sectors of society, and 3) the degree of fragmentation among opposition forces. When opposition candidates are able to present a more cohesive front, connect more credibly with the popular classes, and symbolically rival the charismatic appeal of the movement’s leader, the prospects for local electoral success by the charismatic movement decline significantly. I conclude by discussing the implications of strong charismatic leadership for the long-term configurations of subnational party systems
+
+<br>
+
 
 # Published Datasets
 
