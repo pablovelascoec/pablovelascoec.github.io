@@ -28,7 +28,7 @@ Esta tesis de maestría estudia cómo las élites políticas trabajan en el proc
 <br>
 
 
-# working Papers
+# Working Papers
 
 ## Leader cue or partisanship? Categorizing lasting electoral support for a charismatic movement
 
