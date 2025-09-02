@@ -9,7 +9,7 @@ redirect_from:
 <br>
  
  
-Welcome! I am a PhD student in the Department of Politics at the University of Virginia. My work combines tools from political behavior, political economy, and urban studies.
+Welcome! I am a PhD student in the Department of Politics at the [University of Virginia](https://politics.virginia.edu/people/pablo-velasco-ona). My work combines tools from political behavior, political economy, and urban studies.
 
 My dissertation project asks why some subnational party systems consolidate, while national parties in the same territories seem to lack any consistency or widespread partisan attachments. I focus on understanding the microfoundations of enduring electoral support through the analysis of responsibility (mis)attribution, political identities and institutions.
 
