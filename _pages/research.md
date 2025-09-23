@@ -36,11 +36,7 @@ Esta tesis de maestría estudia cómo las élites políticas trabajan en el proc
 
 The survival of charismatic movements following the departure of their leader is contingent on their capacity to transform personal loyalty into enduring political support for a broader political platform. In Ecuador, despite the exit of Rafael Correa from the presidency in 2017 and the country in 2018, his movement prevailed as a dominant political force, and the ongoing divide between supporters and opponents of Correa, known as Correísmo and Anticorreísmo respectively, continues to structure voting behavior. This article analyzes the durability of electoral support for this charismatic movement and identifies two related yet distinct tendencies. A considerable number of adherents self-identify as Correístas (supporters of Correa) and exhibit strong partisan loyalty. In contrast, others consider themselves neutral but rely on emotional affinity toward the leader as a voting cue. The present study introduces the concept of charismatic partisanship to distinguish these loyal followers from leader-cued voters. Drawing on original post-electoral surveys from the first and second rounds of three presidential elections (2021-2025), the analysis shows that charismatic partisans are consistently more likely than emotionally attached citizens to support the movement’s endorsed candidate.
 
-## Centros que expulsan, periferias que crecen. Reconfiguración socioespacial en ciudades intermedias de Ecuador
-
-*With Augusto Barrera*
-
-Este trabajo explora cómo han evolucionado las formas de ocupación de cuatro ciudades intermedias de la Sierra ecuatoriana entre 2010 y 2022. Con base en datos desagregados del Censo de Población y Vivienda (CPV), se encuentra que existe una tendencia compartida caracterizada por centros urbanos que pierden población y periferias que se consolidan rápidamente. Estas nuevas periferias no solamente están relacionadas con su posición espacial, sino que también conectan significativamente con otras formas de segregación sociodemográfica como el origen de la población, la forma de posesión de la vivienda, la capacidad socioeconómica y la edad. 
+[Working Paper](https://preprints.apsanet.org/engage/apsa/article-details/68d195953e708a7649af898d)
 
 
 ## Moderating Ambitions Under His Shadow: The Effects of National Charismatic Leadership on Mayoral Elections.

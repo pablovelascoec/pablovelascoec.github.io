@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume-json
 ---
-<embed src="/files/CV.PV.08.2025.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="/files/CV.PV.09.2025.pdf" type="application/pdf" width="100%" height="800px" />
