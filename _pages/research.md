@@ -47,7 +47,13 @@ This paper examines the case of Correismo in Quito. In 2014, despite Rafael Corr
 
 The findings indicate the presence of two mechanisms that are directly influenced by the national executive and shape electoral outcomes: (1) local politicians’ strategic calculations of ambition and (2) the activation of charismatic partisanship. When opposition candidates confront a president at the height of his popularity, their ambitions are moderated, encouraging cooperation and enhancing their capacity to neutralize the governing movement’s partisan base. By contrast, when the leader’s popularity is weaker, competition fragments among minor challengers, paradoxically creating opportunities for charismatic voters to realign and for the leader’s allies to regain ground.
 
+<br>
 
+# Book Reviews
+
+## Creating Partisans. The Organizational Roots of New Parties in Latin America, by Mathias Poertner. Cambridge University Press, 2024
+
+[European Review of Latin American and Caribbean Studies Revista Europea de Estudios Latinoamericanos y del Caribe](https://erlacs.org/articles/10.32992/erlacs.11403)
 
 <br>
 
