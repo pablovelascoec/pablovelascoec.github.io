@@ -39,7 +39,7 @@ The survival of charismatic movements following the departure of their leader is
 [Working Paper](https://preprints.apsanet.org/engage/apsa/article-details/68d195953e708a7649af898d)
 
 
-## Under his shadow. Charismatic partisanship and electoral behavior in local contests.
+## Under his shadow. Charismatic partisanship and local political survival.
 
 Local elections assess the survival capacities of charismatic movements, which must convert personalistic appeals into reliable electoral support for allied candidates. Yet the transfer of loyalty is rarely straightforward when followers’ attachments are tied primarily to a national leader. Movements that endure succeed in cultivating charismatic partisanship—an allegiance that extends beyond the leader toward a broader political project. This paper analyzes the case of Correísmo in Quito’s mayoral contests, where its candidates have consistently placed first or second since 2009. Examining four electoral cycles (2009–2023), I demonstrate the enduring expression of three core features of charismatic partisanship: transferability, portability across party labels, and legibility to other political actors. This distinctive form of support provides local political networks with an alternative basis for anchoring their long-term survival within an extremely volatile party environment. Methodologically, the study employs a mixed-methods approach that integrates in-depth interviews with key local politicians and the analysis of unpublished electoral surveys.
 
